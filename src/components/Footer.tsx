@@ -18,7 +18,7 @@ const Footer = () => {
           className="space-y-2"
         >
           <p className="text-gray-600 font-medium">
-            &copy; 2024 AAGAAZ'25. All rights reserved.
+            &copy; 2024 AAGAAZ&apos;25. All rights reserved.
           </p>
           <p className="text-sm text-gray-500">
             Organized by{' '}

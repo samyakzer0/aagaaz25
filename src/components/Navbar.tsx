@@ -61,7 +61,7 @@ const Navbar = () => {
             <span className="text-gdg-green">A</span>
             <span className="text-gdg-blue">A</span>
             <span className="text-gdg-red">Z</span>
-            <span className="text-gdg-yellow">'</span>
+            <span className="text-gdg-yellow">&apos;</span>
             <span className="text-gdg-green">2</span>
             <span className="text-gdg-blue">5</span>
           </motion.h1>

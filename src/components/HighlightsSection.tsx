@@ -99,7 +99,7 @@ const HighlightsSection = () => {
             Event <span className="gdg-text-gradient">Highlights</span>
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Discover the amazing experiences waiting for you at AAGAAZ'25. 
+            Discover the amazing experiences waiting for you at AAGAAZ&apos;25. 
             From cutting-edge technology to vibrant cultural activities.
           </p>
         </motion.div>

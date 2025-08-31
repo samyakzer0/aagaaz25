@@ -90,7 +90,7 @@ const HeroSection = () => {
               whileHover={{ rotateY: 360 }}
               transition={{ duration: 0.6, delay: 0.6 }}
             >
-              '
+              &apos;
             </motion.span>
             <motion.span
               className="inline-block text-gdg-green"
@@ -112,7 +112,7 @@ const HeroSection = () => {
         {/* Tagline */}
         <motion.div variants={itemVariants} className="mb-8">
           <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-gray-800 mb-4">
-            "Uniting Youth and Tech"
+            &ldquo;Uniting Youth and Tech&rdquo;
           </h2>
         </motion.div>
 

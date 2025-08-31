@@ -136,7 +136,7 @@ export default function AboutPage() {
                     <div>
                       <h3 className="font-semibold text-gray-800">A Brief History</h3>
                       <p className="text-gray-600">
-                        GDGs started as part of Google's developer outreach program. Today, 
+                        GDGs started as part of Google&apos;s developer outreach program. Today, 
                         thousands of chapters exist worldwide, all run by volunteers.
                       </p>
                     </div>

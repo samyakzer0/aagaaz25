@@ -86,7 +86,7 @@ export default function RegisterPage() {
               transition={{ duration: 0.8 }}
             >
               <h1 className="text-5xl md:text-6xl font-bold text-gray-800 mb-6">
-                Register for <span className="gdg-text-gradient">AAGAAZ'25</span>
+                Register for <span className="gdg-text-gradient">AAGAAZ&apos;25</span>
               </h1>
               <p className="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed mb-8">
                 Join us for two incredible days of technology, innovation, and cultural celebration. 
@@ -146,11 +146,11 @@ export default function RegisterPage() {
                 </motion.div>
                 
                 <h2 className="text-3xl font-bold text-gray-800 mb-4">
-                  AAGAAZ'25 Registration
+                  AAGAAZ&apos;25 Registration
                 </h2>
                 
                 <p className="text-lg text-gray-600 mb-8 leading-relaxed">
-                  Join AAGAAZ'25 – The Youth & Tech Fest. Network with innovators, 
+                  Join AAGAAZ&apos;25 – The Youth &amp; Tech Fest. Network with innovators, 
                   attend expert sessions, enjoy cultural evenings, and grab exciting goodies.
                 </p>
 
@@ -165,7 +165,7 @@ export default function RegisterPage() {
                     target="_blank"
                     rel="noopener noreferrer"
                   >
-                    Register for AAGAAZ'25 Now
+                    Register for AAGAAZ&apos;25 Now
                     <motion.div
                       className="group-hover:translate-x-1 transition-transform duration-300"
                     >
@@ -196,7 +196,7 @@ export default function RegisterPage() {
                 Why <span className="gdg-text-gradient">Register</span>?
               </h2>
               <p className="text-xl text-gray-600">
-                Here's what you get when you join AAGAAZ'25
+                Here&apos;s what you get when you join AAGAAZ&apos;25
               </p>
             </motion.div>
 
@@ -288,7 +288,7 @@ export default function RegisterPage() {
                     Each event has Limited seats — first come, first served
                   </p>
                   <p className="text-gray-600">
-                    Don't miss out — Join 500+ participants at AAGAAZ'25!
+                    Don&apos;t miss out — Join 500+ participants at AAGAAZ&apos;25!
                   </p>
                 </div>
               </div>
@@ -310,7 +310,7 @@ export default function RegisterPage() {
                 Ready to Join the Innovation Revolution?
               </h2>
               <p className="text-xl text-gray-600 mb-8">
-                Be part of AAGAAZ'25 and connect with the future of technology and innovation.
+                Be part of AAGAAZ&apos;25 and connect with the future of technology and innovation.
               </p>
               
               <motion.div
@@ -324,7 +324,7 @@ export default function RegisterPage() {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Register Now - It's Free!
+                  Register Now - It&apos;s Free!
                   <motion.div
                     className="group-hover:translate-x-1 transition-transform duration-300"
                   >

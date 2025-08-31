@@ -85,7 +85,7 @@ const EventsPreview = () => {
             Featured <span className="gdg-text-gradient">Events</span>
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Get a preview of the exciting events planned for AAGAAZ'25. 
+            Get a preview of the exciting events planned for AAGAAZ&apos;25. 
             Two days packed with learning, innovation, and entertainment.
           </p>
         </motion.div>
@@ -233,7 +233,7 @@ const EventsPreview = () => {
               Want to See the Complete Event Schedule?
             </h3>
             <p className="text-gray-600 mb-6">
-              Explore all events, speakers, workshops, and activities planned for AAGAAZ'25.
+              Explore all events, speakers, workshops, and activities planned for AAGAAZ&apos;25.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <motion.div

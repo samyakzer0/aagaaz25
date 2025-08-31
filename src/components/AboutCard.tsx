@@ -52,7 +52,7 @@ const AboutCard = () => {
                 transition={{ duration: 0.3 }}
               >
                 About{' '}
-                <span className="gdg-text-gradient">AAGAAZ'25</span>
+                <span className="gdg-text-gradient">AAGAAZ&apos;25</span>
               </motion.h2>
               
               <motion.div
@@ -60,7 +60,7 @@ const AboutCard = () => {
                 variants={itemVariants}
               >
                 <p>
-                  AAGAAZ'25 is a 2-day, student-driven festival that celebrates innovation, 
+                  AAGAAZ&apos;25 is a 2-day, student-driven festival that celebrates innovation, 
                   collaboration, and cultural vibrancy. Organized by GDG SAGE University Indore, 
                   the event is expected to bring together more than 500 students, startup founders, 
                   and industry leaders from across the region.
@@ -132,7 +132,7 @@ const AboutCard = () => {
               transition={{ duration: 0.3 }}
             >
               <h3 className="text-2xl font-bold text-gray-800 mb-4">
-                Why Attend AAGAAZ'25?
+                Why Attend AAGAAZ&apos;25?
               </h3>
               
               <div className="space-y-3">
@@ -185,7 +185,7 @@ const AboutCard = () => {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Register Now - It's Free!
+                Register Now - It&apos;s Free!
               </Link>
             </motion.div>
           </div>

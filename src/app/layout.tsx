@@ -6,8 +6,8 @@ import Footer from '@/components/Footer'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'AAGAAZ\'25 - Uniting Youth and Tech',
-  description: 'AAGAAZ\'25 is a 2-day student-driven festival celebrating innovation, collaboration, and cultural vibrancy. Join 500+ students, startup founders, and industry leaders.',
+  title: 'AAGAAZ&apos;25 - Uniting Youth and Tech',
+  description: 'AAGAAZ&apos;25 is a 2-day student-driven festival celebrating innovation, collaboration, and cultural vibrancy. Join 500+ students, startup founders, and industry leaders.',
   keywords: 'AAGAAZ, GDG, Google Developer Groups, SAGE University, Tech Festival, Innovation, Youth',
 }
 

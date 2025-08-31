@@ -127,7 +127,7 @@ const CountdownSection = () => {
         >
           <div className="glass-card p-6 rounded-xl max-w-2xl mx-auto">
             <p className="text-lg text-gray-700 font-medium">
-              Mark your calendars! AAGAAZ'25 is approaching fast. Don't miss out on this incredible
+              Mark your calendars! AAGAAZ&apos;25 is approaching fast. Don&apos;t miss out on this incredible
               opportunity to connect, learn, and innovate with the tech community.
             </p>
           </div>

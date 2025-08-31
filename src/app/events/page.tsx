@@ -13,24 +13,24 @@ import {
   Code,
   Mic,
   Gift,
-  HandHeart
+  Heart
 } from 'lucide-react'
 
 export default function EventsPage() {
   const eventOverview = [
-    { icon: Calendar, label: 'Event Name', value: 'AAGAAZ\'25', color: 'text-gdg-blue' },
+    { icon: Calendar, label: 'Event Name', value: 'AAGAAZ&apos;25', color: 'text-gdg-blue' },
     { icon: Lightbulb, label: 'Theme', value: 'Uniting Youth and Tech', color: 'text-gdg-red' },
     { icon: Calendar, label: 'Dates', value: 'September 17–18, 2025', color: 'text-gdg-blue' },
     { icon: MapPin, label: 'Venue', value: 'Kalpavriksha Auditorium, SAGE University Indore', color: 'text-gdg-red' },
     { icon: Users, label: 'Audience', value: '500+ attendees', color: 'text-gdg-yellow' },
-    { icon: HandHeart, label: 'Organizers', value: 'GDG SAGE University Indore', color: 'text-gdg-green' }
+    { icon: Heart, label: 'Organizers', value: 'GDG SAGE University Indore', color: 'text-gdg-green' }
   ]
 
   const day1Events = [
     {
       icon: '👋',
       title: 'Welcome & GDG Intro + GDG Certificate Distribution',
-      description: 'Kickstart of AAGAAZ\'25 with dignitaries, GDG community introduction, and certificate distribution for GDG members.',
+      description: 'Kickstart of AAGAAZ&apos;25 with dignitaries, GDG community introduction, and certificate distribution for GDG members.',
       time: '9:00 AM',
       duration: '1 hour',
       color: 'border-gdg-blue',
@@ -409,7 +409,7 @@ export default function EventsPage() {
 
               <div className="border-t border-gray-200 pt-8">
                 <h3 className="text-2xl font-bold text-gray-800 mb-4">
-                  AAGAAZ'25 isn't just an event — it's an experience.
+                  AAGAAZ&apos;25 isn&apos;t just an event — it&apos;s an experience.
                 </h3>
                 <p className="text-lg text-gray-600 mb-6">
                   Celebrate learning, leadership, and culture with us.
