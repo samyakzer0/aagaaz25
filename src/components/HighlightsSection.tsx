@@ -171,11 +171,10 @@ const HighlightsSection = () => {
               key={index}
               className="text-center glass-card p-6 rounded-xl hover-lift"
               whileHover={{ scale: 1.05, y: -5 }}
-              transition={{ duration: 0.3 }}
+              transition={{ duration: 0.3, delay: index * 0.1 }}
               initial={{ opacity: 0, scale: 0.8 }}
               whileInView={{ opacity: 1, scale: 1 }}
               viewport={{ once: true }}
-              delay={index * 0.1}
             >
               <div className={`text-3xl md:text-4xl font-black ${stat.color} mb-2`}>
                 {stat.number}

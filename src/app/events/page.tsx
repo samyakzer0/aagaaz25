@@ -143,7 +143,7 @@ export default function EventsPage() {
                 Event <span className="gdg-text-gradient">Overview</span>
               </h1>
               <p className="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
-                Explore the complete schedule of AAGAAZ'25 - two days packed with 
+                Explore the complete schedule of AAGAAZ&apos;25 - two days packed with 
                 technology, innovation, culture, and networking opportunities.
               </p>
             </motion.div>

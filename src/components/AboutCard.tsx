@@ -105,11 +105,10 @@ const AboutCard = () => {
                     scale: 1.05,
                     rotateY: 5
                   }}
-                  transition={{ duration: 0.3 }}
+                  transition={{ duration: 0.3, delay: index * 0.1 }}
                   initial={{ opacity: 0, y: 20 }}
                   whileInView={{ opacity: 1, y: 0 }}
                   viewport={{ once: true }}
-                  delay={index * 0.1}
                 >
                   <stat.icon className={`w-8 h-8 ${stat.color} mx-auto mb-2`} />
                   <div className={`text-2xl font-bold ${stat.color} mb-1`}>
